@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-goy",
+  "version": "0.0.1",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "eslint",
+    "config",
+    "goy"
+  ],
+  "description": "Eslint config for GoyFE",
+  "author": "ntnyq <ntnyq13@gmail.com> (https://ntnyq.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint-config-standard": "^13.0.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.0"
+  },
+  "repository": "https://github.com/goy-fe/eslint-config-goy.git"
+}
