@@ -4,6 +4,6 @@ module.exports = {
   ],
 
   rules: {
-    'comma-dangle': [2, 'always-mutiline']
+    'comma-dangle': [2, 'always-multiline']
   }
 }
