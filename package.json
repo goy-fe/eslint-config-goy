@@ -10,7 +10,7 @@
     "config",
     "goy"
   ],
-  "description": "Eslint config for GoyFE",
+  "description": "ESLint config for GoyFE",
   "author": "ntnyq <ntnyq13@gmail.com> (https://ntnyq.com)",
   "license": "MIT",
   "dependencies": {

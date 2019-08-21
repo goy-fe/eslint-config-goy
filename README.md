@@ -1,6 +1,6 @@
 # eslint-config-goy
 
-> Eslint config for GoyFE
+> ESLint config for GoyFE
 
 ## Install
 
